@@ -27,4 +27,5 @@ gestion-ebooks-go/
 │       ├── interface.go     # Interfaz BuscadorCatalogo
 │       └── catalog.go       # Implementación de los servicios de consulta
 ├── go.mod                   # Definición del módulo Go
-└── main.go                  # Punto de entrada y casos de uso
+├── main.go                  # Punto de entrada y casos de uso
+└── README.md                # Documentación del proyecto
